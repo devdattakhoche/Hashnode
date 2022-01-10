@@ -383,4 +383,4 @@ You get to know a lot of things. You can use these tokens to incentivize or give
 Note that to make production-ready tokens on Mainnet you need to test your contracts first, else it might cost you a lot every time you redeploy the changes.
 
 Feel free to reach out to me.
-If you liked the article do share it and give me a follow on hashnode and @devdattakhoche on twitter.✌️✌️
+If you liked the article do share it and give me a follow on hashnode and  [@devdattakhoche](https://twitter.com/DevdattaKhoche)  on twitter.✌️✌️
