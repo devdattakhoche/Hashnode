@@ -25,7 +25,9 @@ Now enough of the theoretical part, let's dive in.
 
 ## 🔥 Let's get Started
 
-Step 1: To implement our Token to adhere to ERC-20 standards defined by Ethereum.
+#### Step 1
+
+To implement our Token to adhere to ERC-20 standards defined by Ethereum.
 What does the standard interface look like? Here it is:
 
 
@@ -45,7 +47,9 @@ interface ERC20{
 Now this in an Interface, Interface has all the empty methods defined which we need to implement. For more info on ERC-20 Standard Interface, you can visit  [here](https://github.com/ethereum/EIPs/blob/f98a60e1b1590c9cfa0bfe66c4e6a674e54cd386/EIPS/eip-20.md). 
 We will create a `.sol`  file and add this interface to it in  [Remix IDE](https://remix.ethereum.org/).
 
-Step 2: Once we have done this let us create our custom token contract.
+#### Step 2
+
+Once we have done this let us create our custom token contract.
 In Solidity, we create a contract with the keyword `contract`.
 We will inherit the interface which we added to our file.
 
@@ -111,7 +115,9 @@ contract YourCustomToken is ERC20{
 
 ```
 
-Step 3: Let us now implement all the functions in the interface.
+#### Step 3 
+
+Let us now implement all the functions in the interface.
 
 **balanceOf**
 ```
@@ -333,7 +339,9 @@ You can notice that you will have all the minted coins of your own. You can do t
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1641832191816/9WsAkl9sY.png)
 
 
-Step 4: Let us now deploy our token on the Rinkbey test network. For this, you will be needing all a wallet. 
+#### Step 4
+
+ Let us now deploy our token on the Rinkbey test network. For this, you will be needing all a wallet. 
 You can get your wallet  [here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en).
 
 After you have the wallet, go get some test Ethers in your wallet from  [here](https://faucets.chain.link/rinkeby).
