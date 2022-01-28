@@ -215,7 +215,7 @@ Note that you can start with any node in DFS.
 
 <hr />
 
-### 🎯Final Thoughts
+## 🎯Final Thoughts
 
 Amazing! Congrats on making it to the end of the article!
 
