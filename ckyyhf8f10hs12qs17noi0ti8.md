@@ -140,6 +140,8 @@ int main(){
 Output : 
 2 1 3 5 4 
 ```
+You can play with it 
+[here](https://www.interviewbit.com/snippet/4244cdbeba5aa2059f6a/).
 
 Here is another approach explicitly using stack.
 This is indeed a good application of stack .
@@ -210,6 +212,7 @@ int main(){
 Output :
 2 4 3 5 1 
 ```
+You can play with code [here](https://www.interviewbit.com/snippet/6cdff107dcdbd8615c87/).
 
 Note that you can start with any node in DFS.
 
