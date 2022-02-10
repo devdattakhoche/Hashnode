@@ -218,7 +218,7 @@ int main(){
 
 You can explore more [here](https://www.interviewbit.com/snippet/0db51b5a7a3d2d8ffa30/).
 
-##🎯Final thoughts
+## 🎯Final thoughts
 
 Bit manipulation is necessary for competitive programming. It helps you think in bits and bytes. With these tips and tricks, you will be able to solve many problems.
 To get a hang of Bit manipulation try to solve as many questions as you can, each question will teach you different applications of these tips and tricks.
